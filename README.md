@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shabih Haider</h1>
 <h3 align="center">A Enthusiastic WEB developer from Pakistan</h3>
-<p><img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></p>
 
 - 🔭 I’m currently working on [Guess Gender](https://github.com/shabihhaider/Gender-Prognosis-Guess-the-Gender-of-a-person-.git)
 
