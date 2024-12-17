@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shabih Haider</h1>
 <h3 align="center">A Enthusiastic WEB developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [PHP](https://github.com/shabihhaider/PHP-Practice)
+- 🔭 I’m currently working on Laravel Project
 
-- 🌱 I’m currently learning **PHP and MySQL**
+- 🌱 I’m currently learning **Laravel and Eloquent Relationship**
 
-- 💬 Ask me about **C++, C, PHP, HTML, CSS, JS, jQuery, Bootstrap, and Programming concepts**
+- 💬 Ask me about **Laravel, C++, C, PHP, HTML, CSS, JS, jQuery, Bootstrap, and Programming concepts**
 
 - 📫 How to reach me **shabihhaider191@gmail.com**
 
