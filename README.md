@@ -24,6 +24,7 @@
 ---
 
 ### 📫 Let's Connect
+
 <a href="https://linkedin.com/in/muhammad-shabih-haider-881a19255" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -60,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabihhaider&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shabihhaider&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
